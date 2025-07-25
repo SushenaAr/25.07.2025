@@ -1,0 +1,5 @@
+{
+  "packages": [
+    {"name": "packet-1", "ver": ">=1.10"}
+    ]
+}
